@@ -17,3 +17,7 @@ Inclui registros dos ultimos IMC calculados
  App-Navegation
 App para aprender a usar os menus de Navegação do Mobile
 Criar páginas e nevagá-las através do Menu
+StackNavigator = Usa a nevegação em subpágina, ex. Abrir detalhes de uma informação.
+DrawerNavigator = Nevagação com o MENU na lateral. Muit útil para grandes menus
+TabNavitador = Navegação com botão inferiror. 
+==== Profeto Finalizado! Apenas para aprender a usar os 3 tipos de navegações
